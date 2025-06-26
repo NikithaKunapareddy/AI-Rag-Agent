@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agent3
 # Agent3: Universal AI Assistant Platform
 
@@ -233,3 +234,6 @@ MIT License
 ## Contact
 
 For questions or support, open an issue or contact the
+=======
+# AI-Rag-Agent
+>>>>>>> 321f900673b5534ec6c0e2768c7a2d72ad71ce9a
